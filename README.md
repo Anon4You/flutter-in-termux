@@ -13,7 +13,7 @@ Flutter is Google's SDK for crafting beautiful, fast user experiences for mobile
 ## Installation Options
 
 ### Option 1: Install from TermuxVoid Repo (Recommended)
-fluttet is available in the [Termux Void Repo](https://termuxvoid.github.io) :
+Flutter is available in the [Termux Void Repo](https://termuxvoid.github.io) :
 
 ```bash
 apt install flutter -y
